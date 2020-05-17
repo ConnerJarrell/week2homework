@@ -1,0 +1,19 @@
+body {
+    background-color: khaki;
+}
+
+img{
+    width:350px;
+    margin-left:20px;
+}
+
+html{
+    position:relative;
+    min-height: 100%;
+}
+@media (max-width:900px) {
+
+    img{
+        width:250px;
+    }
+}
